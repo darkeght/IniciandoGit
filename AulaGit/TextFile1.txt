@@ -1,1 +1,2 @@
-Este � meu git master resolver o erro 
+Este é meu git master resolver o erro 
+aqui temos uma informalçao
